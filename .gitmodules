@@ -1,0 +1,3 @@
+[submodule "vid2led"]
+	path = vid2led
+	url = git@github.com:wymcg/vid2led
